@@ -1,0 +1,20 @@
+{
+  "start": {
+      "text": "Hi! 👋"
+  },
+  "step1": {
+      "text": "Step 1",
+      "button": "➡️ Next"
+  },
+  "step2": {
+      "text": "This step has a <a href='http://www.google.com'>link</a>!",
+      "button": "➡️ Next"
+  },
+  "step3": {
+      "text": "Step <strong>3</strong>",
+      "button": "➡️ Next"
+  },
+  "step4": {
+      "text": "<code>Complete!</code>"
+  }
+}
