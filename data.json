@@ -1,10 +1,11 @@
 {
   "start": {
-      "text": "Hi"
+      "text": "Welcome to Distrobot Beta v1. To get started, select the type of trim below"
   },
   "step1": {
       "text": "Step 1",
-      "button": "➡️ Next"
+      "button": "Ongoing Trim"
+      "button": "Timeframe Trim"
   },
   "step2": {
       "text": "This step has a <a href='http://www.google.com'>link</a>!",
