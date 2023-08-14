@@ -4,8 +4,16 @@
   },
   "step1": {
       "text": "Step 1",
-      "button": "Ongoing Trim"
+      "button": {
+        "text": "Ongoing Trim",
+        "linksTo": "step2"
+      },
+      "button": {
+        "text": "Other Link",
+        "linksTo": "mehrrr"
+      }
   },
+  "mehrrr": {},
   "step2": {
       "text": "This step has a <a href='http://www.google.com'>link</a>!",
       "button": "➡️ Next"
