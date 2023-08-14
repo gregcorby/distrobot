@@ -5,7 +5,6 @@
   "step1": {
       "text": "Step 1",
       "button": "Ongoing Trim"
-      "button": "Timeframe Trim"
   },
   "step2": {
       "text": "This step has a <a href='http://www.google.com'>link</a>!",
