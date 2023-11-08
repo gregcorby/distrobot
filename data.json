@@ -16,21 +16,4 @@
       "linksTo": "step1"
     }
   },
-  "step2": {
-      "text": "This step has a <a href='http://www.google.com'>link</a>!",
-      "button": {
-        "text": "next",
-        "linksTo": "step3"
-    }
-  },
-  "step3": {
-      "text": "Step <strong>3</strong>",
-      "button": {
-        "text": "get coadz",
-        "linksTo": "step4"
-      }
-  },
-  "step4": {
-      "text": "<code>Complete!</code>"
-  }
 }
