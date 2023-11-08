@@ -4,10 +4,7 @@
   },
   "step1": {
       "text": "Ask me anything you want! Some potential queries could be <em>new trending launches</em>, to <em>who's the most profitable influencer today?</em>",
-      "button": {
-        "text": "Snipe",
-        "linksTo": "step2"
-      }
+    
   }, 
    "step2": {
       "text": "Looks like $DGROK has seen an increase in mentions by 72% in the last hour. Do you want to buy it?",
