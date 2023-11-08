@@ -5,21 +5,14 @@
   "step1": {
       "text": "Looks like $DGROK has seen an increase in mentions by 72% in the last hour.",
       "button": {
-        "text": "💰 Snipe",
+        "text": "Snipe",
         "linksTo": "step2"
-      },
-      "button": {
-        "text": "🔔 Remind Me",
-        "linksTo": ""
       }
   },
   "mehrrr": {
-    "text": "
-    ✅ Your buy transaction succeeded
-    💰 You gained 125,278,937.27 Hitchhiker Ξ $198.21
-...",
+    "text": "Your buy transaction succeeded! You gained 12,308,454 $DGROK for $198.21",
     "button": {
-      "text": "back to one bitch",
+      "text": "View on Etherscan",
       "linksTo": "step1"
     }
   },
