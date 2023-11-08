@@ -9,7 +9,7 @@
         "linksTo": "step2"
       }
   },
-  "mehrrr": {
+  "step2": {
     "text": "Your buy transaction succeeded! You gained 12,308,454 $DGROK for $198.21",
     "button": {
       "text": "View on Etherscan",
