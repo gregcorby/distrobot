@@ -1,15 +1,22 @@
 {
   "start": {
-      "text": "Lets find some alpha."
+      "text": "Looking for alpha?"
   },
   "step1": {
-      "text": "Looks like $DGROK has seen an increase in mentions by 72% in the last hour.",
+      "text": "Ask me anything you want! Some potential queries could be <em>new trending launches</em>, to <em>who's the most profitable influencer today?</em>",
       "button": {
         "text": "Snipe",
         "linksTo": "step2"
       }
+  }, 
+   "step2": {
+      "text": "Looks like $DGROK has seen an increase in mentions by 72% in the last hour. Do you want to buy it?",
+      "button": {
+        "text": "Snipe",
+        "linksTo": "step3"
+      }
   },
-  "step2": {
+  "step3": {
     "text": "Your buy transaction succeeded! You gained 12,308,454 $DGROK for $198.21",
     "button": {
       "text": "View on Etherscan",
